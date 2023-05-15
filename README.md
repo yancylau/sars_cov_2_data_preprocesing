@@ -17,7 +17,7 @@ After preprocessing, we bin time intervals into one-month segments, resulting in
 GISAID sequence data is publicly available at https://gisaid.org. The dataset sampled from the UK region according to the Pango lineage designation and assignment, used for the R0 calculation is available at https://zenodo.org/deposit/7388491.
 
 
-Reference:
+## Reference:
 1. A. Rambaut, E. C. Holmes, Á. O’Toole, V. Hill, J. T. McCrone, C. Ruis, L. du Plessis, O. G. Pybus, A dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology. Nature Microbiology. 5, 1403–1407 (2020).
 
 2. F. Wu, S. Zhao, B. Yu, Y.-M. Chen, W. Wang, Z.-G. Song, Y. Hu, Z.-W. Tao, J.-H. Tian, Y.-Y. Pei, M.-L. Yuan, Y.-L. Zhang, F.-H. Dai, Y. Liu, Q.-M. Wang, J.-J. Zheng, L. Xu, E. C. Holmes, Y.-Z. Zhang, A new coronavirus associated with human respiratory disease in China. Nature. 579, 265–269 (2020).
